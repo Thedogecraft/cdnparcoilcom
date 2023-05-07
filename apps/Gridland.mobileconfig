@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>ConsentText</key>
+<dict>
+<key>default</key>
+<string></string>
+</dict>
+ <key>PayloadContent</key>
+ <array>
+   <dict>
+     <key>FullScreen</key>
+     <true/>
+     <key>Icon</key>
+     <data>iVBORw0KGgoAAAANSUhEUgAAAH0AAAB9CAMAAAC4XpwXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURQAAAHxYQMZWRe7fpsTExP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC2cDLsAAAEAdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wBT9wclAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMUfzQjcAAAGYSURBVGhD7ZjBcsIwEENpm/7/J1OhyB2vl9h4IE066N2EWL0DOTC5XI/k3e2XY7D9Zv/+a2wf2dE9g1Yy6Gwf2ZcKxI+K3H5WDHZtt32DvC8xya3EZLBru+0b5H2JSW4lJoPd89kR9kMOgGB7sn9VhG4S3OqBWJY1rp/fQLDd9gKCxCR0k+BWbtttX0GwPdkbVMyj+woVAMH2ZNdPRUL3Qmy33XZi+y+2v55te4OKe+gbD6MzgGB7suvFBAldAq3eUxBEPS6kN4Vgu+2F3kkCrcQEUWLSm0Kw3fZC7ySBVmKCKDHpTSGc0t6g4h76xsPoDCDYnux6bUFCNwlu9QSQVmO77QUEiUnoJsGtxKTV2G57AUFiErpJcCsxaTWntDeomEf3FSoAgu3Jrv9JJHST4FZPD2k1ttteQJCYhG4S3EpMWo3tthcQJCahmwS3EpNWc0r7fsgBEGyP9gZ0evVAEPVAkGGrlQw6223fYLivguRWKxl0ttu+wXBfBcmtVjLo/oP9GbSSQWd7174XJ7Ifge0H8r726/UHdwJeaE35qYoAAAAASUVORK5CYII=</data>
+     <key>IsRemovable</key>
+     <true/>
+     <key>Label</key>
+     <string>Gridland</string>
+     <key>PayloadDescription</key>
+     <string></string>
+     <key>PayloadDisplayName</key>
+     <string>Web Clip (Gridland)</string>
+     <key>PayloadIdentifier</key>
+     <string>9616227</string>
+     <key>PayloadOrganization</key>
+     <string>Doublespeak Games</string>
+     <key>PayloadType</key>
+     <string>com.apple.webClip.managed</string>
+     <key>PayloadUUID</key>
+     <string>c3b2c123-6253-464e-afde-0d987400da0f</string>
+     <key>PayloadVersion</key>
+     <integer>1</integer>
+     <key>Precomposed</key>
+     <false/>
+     <key>URL</key>
+     <string>https://gridland.doublespeakgames.com</string>
+   </dict>
+ </array>
+ <key>PayloadDescription</key>
+ <string></string>
+ <key>PayloadDisplayName</key>
+ <string>Gridland</string>
+ <key>PayloadIdentifier</key>
+ <string>9616227</string>
+ <key>PayloadOrganization</key>
+ <string>Doublespeak Games</string>
+ <key>PayloadRemovalDisallowed</key>
+ <false/>
+ <key>PayloadType</key>
+ <string>Configuration</string>
+ <key>PayloadUUID</key>
+ <string>345097fb-d4f7-4a34-ab90-2e3f1ad62eed</string>
+ <key>PayloadVersion</key>
+ <integer>1</integer>
+</dict>
+</plist>

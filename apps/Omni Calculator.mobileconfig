@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>ConsentText</key>
+<dict>
+<key>default</key>
+<string></string>
+</dict>
+ <key>PayloadContent</key>
+ <array>
+   <dict>
+     <key>FullScreen</key>
+     <true/>
+     <key>Icon</key>
+     <data>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</data>
+     <key>IsRemovable</key>
+     <true/>
+     <key>Label</key>
+     <string>Omni Calculator</string>
+     <key>PayloadDescription</key>
+     <string></string>
+     <key>PayloadDisplayName</key>
+     <string>Web Clip (Omni Calculator)</string>
+     <key>PayloadIdentifier</key>
+     <string>286482</string>
+     <key>PayloadOrganization</key>
+     <string>Omni sp.</string>
+     <key>PayloadType</key>
+     <string>com.apple.webClip.managed</string>
+     <key>PayloadUUID</key>
+     <string>c3b2c123-6253-464e-afde-0d987400da0f</string>
+     <key>PayloadVersion</key>
+     <integer>1</integer>
+     <key>Precomposed</key>
+     <false/>
+     <key>URL</key>
+     <string>https://www.omnicalculator.com</string>
+   </dict>
+ </array>
+ <key>PayloadDescription</key>
+ <string></string>
+ <key>PayloadDisplayName</key>
+ <string>Omni Calculator</string>
+ <key>PayloadIdentifier</key>
+ <string>286482</string>
+ <key>PayloadOrganization</key>
+ <string>Omni sp.</string>
+ <key>PayloadRemovalDisallowed</key>
+ <false/>
+ <key>PayloadType</key>
+ <string>Configuration</string>
+ <key>PayloadUUID</key>
+ <string>345097fb-d4f7-4a34-ab90-2e3f1ad62eed</string>
+ <key>PayloadVersion</key>
+ <integer>1</integer>
+</dict>
+</plist>
